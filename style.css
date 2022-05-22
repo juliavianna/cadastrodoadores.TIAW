@@ -1,0 +1,29 @@
+label {
+    font-weight: bolder;
+}
+body{
+    background-color: rgb(255, 187, 124);
+}
+::placeholder {
+    color: lightskyblue !important;
+    opacity: 3;
+}
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:  lightskyblue !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:  lightskyblue !important;
+    opacity:  3;
+ }
+ h1 {
+     text-align: center;
+ }
+ #titulo {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ #msg {
+     height: 60px;
+ }
+ #grid-contatos tbody {
+     cursor: pointer;
+ }
