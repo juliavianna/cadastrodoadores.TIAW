@@ -9,10 +9,10 @@ body{
     opacity: 3;
 }
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
-    color:  lightskyblue !important;
+    color:  rgb(99, 175, 223) !important;
 }
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-    color:  lightskyblue !important;
+    color:  rgb(99, 175, 223) !important;
     opacity:  3;
  }
  h1 {
